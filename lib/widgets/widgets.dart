@@ -27,6 +27,6 @@ TextStyle textColorWhite(){
 TextStyle bigTextColorWhite(){
   return TextStyle(
     color: Colors.white,
-    fontSize: 25.0,
+    fontSize: 20.0,
   );
 }
